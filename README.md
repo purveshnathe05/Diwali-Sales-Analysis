@@ -69,8 +69,6 @@ Created multiple charts using Matplotlib & Seaborn:
 ---
 
 ## 👨‍💻 Author
-Manish Nucche  
-Aspiring Data Analyst  
-GitHub: https://github.com/ManishNucche  
-LinkedIn: https://www.linkedin.com/in/manishnucche/
+Purvesh Nathe
+Asprinig Data Engineer
 
